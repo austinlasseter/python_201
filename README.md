@@ -1,6 +1,5 @@
-# python_201
+#	Python 201: Best Practices  
 
-#	Python Best Practices  
 Date: Thursday, August 16th, 5:30pm – 7:30pm (20 spaces available)  
 Instructor: Austin Lasseter  
 
