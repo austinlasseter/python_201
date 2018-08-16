@@ -12,7 +12,7 @@ Description: Ready to up your game as a python programmer? This course is for pr
 •           Docstrings, Errors and Exception Handling  
 •           Basic Object Oriented Programming  
 
-Note: The source material for this repo is taken from 3 sources:
+Note: The inspiration for this repo is taken from 3 sources:
 * The Data Science Immersive Class by [General Assembly](https://generalassemb.ly/)
 * Jose Portilla's [Python Bootcamp](
 https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content) on Udemy
