@@ -3,6 +3,7 @@
 Date: Thursday, August 16th, 5:30pm – 7:30pm (20 spaces available)  
 Instructor: Austin Lasseter  
 
+
 Description: Ready to up your game as a python programmer? This course is for practitioners who have some knowledge of python, and are looking to improve their toolkit and use of best practices. During the training we will cover:  
 •           List comprehension  
 •           Built-in Functions  
