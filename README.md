@@ -13,8 +13,8 @@ Description: Ready to up your game as a python programmer? This course is for pr
 •           Basic Object Oriented Programming  
 
 Note: The source material for this repo is taken from two sources:
-* The Data Science Immersive Class by (General Assembly)[https://generalassemb.ly/]
-* Jose Portilla's (Python Bootcamp)[
-https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content] on Udemy
+* The Data Science Immersive Class by [General Assembly](https://generalassemb.ly/)
+* Jose Portilla's [Python Bootcamp](
+https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content) on Udemy
 
 I'm grateful to these sources for everything they've taught me.
