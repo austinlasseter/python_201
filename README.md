@@ -5,11 +5,11 @@ Instructor: Austin Lasseter
 
 
 Description: Ready to up your game as a python programmer? This course is for practitioners who have some knowledge of python, and are looking to improve their toolkit and use of best practices. During the training we will cover:  
-•           List comprehension  
+•           List comprehensions
 •           Built-in Functions  
 •           Writing your own functions  
-•           Lambda expressions  
-•           Errors and Exception Handling  
+•           Lambda functions  
+•           Docstrings, Errors and Exception Handling  
 •           Basic Object Oriented Programming  
 
 Note: The source material for this repo is taken from 3 sources:
