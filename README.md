@@ -12,7 +12,9 @@ Description: Ready to up your game as a python programmer? This course is for pr
 •           Decorators  
 •           Basic Object Oriented Programming  
 
-Note: Much of the material in this repo is taken from Jose Portilla's Python Bootcamp on Udemy, either directly or indirectly. I encourage you to check out Jose's class - It's great!  
-https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content
+Note: The source material for this repo is taken from two sources:
+* The Data Science Immersive Class by (General Assembly)[https://generalassemb.ly/]
+* Jose Portilla's (Python Bootcamp)[
+https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content] on Udemy
 
-Some of the other examples are taken from the Data Science Immersive Class at General Assembly. The commit messages make this clear.
+I'm grateful to these sources for everything they've taught me.
