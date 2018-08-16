@@ -3,9 +3,6 @@
 Date: Thursday, August 16th, 5:30pm – 7:30pm (20 spaces available)  
 Instructor: Austin Lasseter  
 
-<div align="center">
-    <img src="https://github.com/austinlasseter/python_201/blob/master/source_materals/titanic.jpg" width="400px"</img> 
-</div>
 
 Description: Ready to up your game as a python programmer? This course is for practitioners who have some knowledge of python, and are looking to improve their toolkit and use of best practices. During the training we will cover:  
 •           List comprehension  
