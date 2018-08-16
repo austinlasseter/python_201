@@ -1,0 +1,7 @@
+# All materials in this repo are forked from two sources:
+
+General Assembly
+https://generalassemb.ly/
+
+Jose Portilla's Python bootcamp on Udemy
+https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/learn/v4/content
