@@ -10,7 +10,6 @@ Description: Ready to up your game as a python programmer? This course is for pr
 •           Writing your own functions  
 •           Lambda expressions  
 •           Errors and Exception Handling  
-•           Decorators  
 •           Basic Object Oriented Programming  
 
 Note: The source material for this repo is taken from 3 sources:
